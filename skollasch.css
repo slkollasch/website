@@ -1,0 +1,90 @@
+body {
+  font-family: 'Rubik', sans-serif; }
+
+.content {
+  width: 70%;
+  margin: auto;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  color: #505050; }
+  .content h1 {
+    color: #5DADE2; /*-- FF6448*/
+    font-weight: 500;
+    font-size: 5em;
+    margin-top: 0;
+    margin-bottom: 0; }
+    @media (max-device-width: 768px) {
+      .content h1 {
+        font-size: 10em; } }
+  .content h3 {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    font-weight: 300;
+    font-size: 1.5em; }
+    @media (max-device-width: 768px) {
+      .content h3 {
+        font-size: 4em; } }
+  .content a {
+    font-weight: 500;
+    text-decoration: none; }
+  .content a:hover {
+    font-weight: 500;
+    font-style: italic; }
+  .content .links {
+    margin-bottom: 1em;
+    font-size: 2.5em; }
+    @media (max-device-width: 768px) {
+      .content .links {
+        font-size: 5em; } }
+    .content .links a {
+      color: #C0C0C0;
+      margin-right: 0.5em; }
+
+.hr{
+  width: 60%;
+}
+.g-blue {
+  color: #4285F4; }
+
+.g-red {
+  color: #EC4335; }
+
+.g-yellow {
+  color: #FCBD04; }
+
+.g-green {
+  color: #35A853; }
+
+.northwestern {
+  color: #4E2A84; }
+
+.flyhomes {
+  color: #6BC1B6; }
+
+.wild {
+  color: #5F449B; }
+
+.hacks {
+  color: #57A0D7; }
+
+.hacknu {
+  color: #981AC2; }
+
+.yahoo {
+  color: #400090; }
+
+.thermo {
+  color: #EF2D36; }
+
+.xlcatlin {
+  color: #000000; }
+
+.meche {
+  color: #FFA500; }
+
+.tkd {
+  color: #228B22;
+  font-weight: 600;}
+
+.resume {
+  color: #008080; }
